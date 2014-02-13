@@ -9,7 +9,7 @@ Cartridge-Version: 0.0.2
 Cartridge-Vendor: phase2
 License: BSD
 Categories:
-- embedded
+- plugin
 Provides:
 - git-ssh
 Scaling:
