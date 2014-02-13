@@ -13,5 +13,5 @@ Categories:
 Provides:
 - git-ssh
 Scaling:
-  Min: -1
-  Max: -1
+  Min: 1
+  Max: 1
